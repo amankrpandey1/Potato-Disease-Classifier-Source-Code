@@ -4,4 +4,4 @@
 
 ## Visit the following repo for training code part:
 
-[https://github.com/amankrpandey1/Potato-Disease-Classifier](https://github.com/amankrpandey1/Potato-Disease-Classifier)
+[https://github.com/amankrpandey1/Potato-Disease-Classifier](https://github.com/amankrpandey1/Potato-Disease-Classifier/blob/main/potato_disease.ipynb)
